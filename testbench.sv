@@ -1,5 +1,5 @@
 // Single Port RAM testbench
-// Rakshith Suresh- 13/08/2024
+// Rakshith Suresh 13/08/2024
 
 module single_port_ram_tb;
   reg [7:0] data; //input data
