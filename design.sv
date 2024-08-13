@@ -1,5 +1,5 @@
 // Single-Port RAM (Random Access Memory) Module Design
-//design.sv
+// Rakshith Suresh 13/08/2024
 
 module single_port_ram(
   input [7:0] data, //input data
